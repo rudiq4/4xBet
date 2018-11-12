@@ -1,6 +1,9 @@
+
 # Totalizator 0.1
 # Author by rudiq4
 # https://github.com/rudiq4
+
+import tkinter
 
 #  Ставка
 s = 0
